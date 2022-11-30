@@ -1,5 +1,8 @@
 <template>
-  <h1>Hello from Other Side {{ name }}</h1>
+  <div>
+    {{startTimeList}}
+    <h1>Hello from Other Side</h1>
+  </div>
 </template>
 
 <style lang="scss" src="./style.scss"></style>
